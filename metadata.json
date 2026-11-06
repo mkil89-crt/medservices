@@ -1,0 +1,6 @@
+{
+  "name": "MedServices - Services Médicaux Maroc",
+  "description": "Plateforme B2B pour médecins et cliniques au Maroc : achats groupés, suivi AMO, recrutement de remplaçants, maintenance de matériel médical et accompagnement administratif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
